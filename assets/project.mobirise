@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "https://murilomaxwelbi.mobirisesites.com",
+    "name": "Meu Portfólio de Projetos no Power BI",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Consultoria em Business Intelligence",
+        "title": "Meu Portfólio de Projeto no Power BI",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
