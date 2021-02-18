@@ -1118,6 +1118,25 @@ section.lazy-placeholder:after {
 .cid-soxmaJB1HK .mbr-section-btn {
   text-align: left;
 }
+.cid-sppMgGbmue {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #b2ccd2;
+}
+@media (min-width: 992px) {
+  .cid-sppMgGbmue .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sppMgGbmue .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-sppMgGbmue .mbr-text {
+  color: #073b4c;
+  text-align: left;
+}
 .cid-sox1SxIn89 {
   padding-top: 90px;
   padding-bottom: 90px;
